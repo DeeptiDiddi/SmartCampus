@@ -1,0 +1,83 @@
+SMARTCAMPUS UNIVERSITY ACADEMIC REGULATIONS MANUAL
+Document Code: SCU-AR-2025-v1
+
+SECTION 1: ATTENDANCE REQUIREMENTS AND CONDONATION
+1.1 Minimum Attendance Rule: A student must secure a minimum of 75% attendance in aggregate across all registered theory and practical courses in a semester to be eligible to appear for the End Semester Examinations (ESE).
+1.2 Attendance Condonation: The Academic Council may condone attendance shortages between 65% and 74.9% on medical grounds, provided the student submits a valid medical certificate issued by a registered medical practitioner within 7 days of returning to class.
+1.3 Condonation Fee: A non-refundable condonation fee of Rs. 1,500 per semester is applicable for approved medical condonations.
+1.4 Shortage Below 65%: Students securing less than 65% attendance in aggregate will be detained, declared ineligible for ESE, and must repeat the entire semester in the subsequent academic year.
+
+SECTION 2: CREDIT SYSTEM AND DEGREE AWARD
+2.1 Total Credit Requirement: To qualify for the award of B.Tech degree, a student must successfully earn a total of 160 credits over 8 semesters.
+2.2 Semester Credit Load: Standard semester course load ranges between 18 and 22 credits.
+2.3 CGPA and Grading System: Performance is evaluated on a 10-point grading scale:
+    - O (Outstanding): 10 Grade Points (90-100% marks)
+    - A+ (Excellent): 9 Grade Points (80-89% marks)
+    - A (Very Good): 8 Grade Points (70-79% marks)
+    - B+ (Good): 7 Grade Points (60-69% marks)
+    - B (Above Average): 6 Grade Points (50-59% marks)
+    - C (Pass): 5 Grade Points (40-49% marks)
+    - F (Fail): 0 Grade Points (Below 40% marks)
+2.4 Cumulative Grade Point Average (CGPA) Formula:
+    CGPA = Sum of (Course Credits * Grade Points) / Total Earned Credits.
+2.5 Degree Classification:
+    - First Class with Distinction: CGPA >= 8.0 without any backlogs during the entire 4-year course.
+    - First Class: CGPA >= 6.5 and < 8.0.
+    - Second Class: CGPA >= 5.5 and < 6.5.
+
+SECTION 3: ACADEMIC PROBATION AND DETENTION
+3.1 Promotion Criteria: A student is automatically promoted from 2nd year to 3rd year only if they have cleared at least 60% of total credits prescribed for 1st and 2nd semesters combined.
+3.2 Maximum Duration for Degree Completion: The maximum allowed duration to complete the B.Tech program is 6 academic years (12 semesters) from the date of initial admission.
+
+SECTION 4: ACADEMIC PERFORMANCE AND COURSE REQUIREMENTS
+
+4.1 Course Registration:
+Students must register for all courses prescribed for their semester within the registration period specified by the university.
+
+4.2 Course Withdrawal:
+A student may request withdrawal from an eligible course within the permitted withdrawal period, subject to approval from the concerned academic authority.
+
+4.3 Minimum Academic Performance:
+Students are expected to maintain satisfactory academic performance throughout the program. Students showing consistently poor academic performance may be advised to participate in academic counseling.
+
+4.4 Academic Counseling:
+Students who are unable to meet the prescribed academic requirements may be required to meet their faculty advisor or academic counselor for guidance.
+
+SECTION 5: CREDIT AND COURSE COMPLETION
+
+5.1 Course Completion:
+A student shall earn the credits assigned to a course only after successfully satisfying the attendance, assessment, and examination requirements of that course.
+
+5.2 Core Courses:
+Students must successfully complete all mandatory core courses prescribed in the B.Tech curriculum.
+
+5.3 Elective Courses:
+Students must complete the required number of professional and open electives specified in their curriculum.
+
+5.4 Project Requirement:
+Students must successfully complete the prescribed project or capstone requirement as part of the B.Tech program.
+
+SECTION 6: ACADEMIC PROBATION
+
+6.1 Probation Status:
+Students who fail to meet prescribed academic performance requirements may be placed under academic probation.
+
+6.2 Probation Monitoring:
+Students under academic probation may be monitored by the concerned department and academic advisor.
+
+6.3 Removal from Probation:
+A student may be removed from academic probation after satisfying the academic requirements specified by the university.
+
+6.4 Academic Counseling:
+Students under probation may be required to attend academic counseling sessions and follow an improvement plan.
+
+SECTION 7: MAXIMUM PROGRAM DURATION
+
+7.1 Maximum Duration:
+The maximum permitted duration for completion of the B.Tech program is 6 academic years or 12 semesters from the date of initial admission.
+
+7.2 Completion Within Duration:
+All required courses, credits, projects, and other academic requirements must be completed within the permitted duration.
+
+7.3 Expiry of Maximum Duration:
+Students who fail to complete the degree within the maximum permitted duration shall be governed by the applicable university regulations.
