@@ -1190,5 +1190,4 @@ elif page == "📜 History":
                             st.write(
                                 f"• {source.strip()}"
                             )
-                    st.markdown("---")
-print("hello smart campus")                   
+                    st.markdown("---")                  
